@@ -1,0 +1,3 @@
+class dog:
+    name
+    age
